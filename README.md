@@ -90,7 +90,8 @@ Definir Nodos: Ingrese a la opción 1. Definir Nodos, coloque las coordenadas y 
 <img width="943" height="1048" alt="Screenshot 2026-06-22 230331" src="https://github.com/user-attachments/assets/9326661e-ae71-45ee-b695-f465f887c655" />
 
 
-Trazar Barras: En la opción 2. Trazar Elementos, conecte los nudos indicando el nodo inicial (i) y final (j). Defina las propiedades de sección (E, A, I).
+Trazar Barras: En la opción 2. Trazar Elementos, conecte los nudos indicando el nodo inicial (i) y final (j). 
+Defina las propiedades de sección (E, A, I).
 
 
 <img width="1093" height="803" alt="Screenshot 2026-06-22 230350" src="https://github.com/user-attachments/assets/facb2d66-5d1d-4c16-995f-760471d2fca8" />
@@ -104,7 +105,9 @@ Aplicar Cargas: Utilice las pestañas correspondientes para añadir fuerzas noda
 <img width="1144" height="777" alt="Screenshot 2026-06-22 230401" src="https://github.com/user-attachments/assets/8a454831-7329-4426-a70f-2f0bf0963593" />
 
 <img width="1144" height="777" alt="Screenshot 2026-06-22 230401" src="https://github.com/user-attachments/assets/bbc5b41d-e4bc-4229-8ac7-d24724d016e5" />
+
 <img width="775" height="985" alt="Screenshot 2026-06-22 230443" src="https://github.com/user-attachments/assets/47f1d419-1ce5-4ee7-a153-df77adacad9b" />
+
 <img width="782" height="1002" alt="Screenshot 2026-06-22 230451" src="https://github.com/user-attachments/assets/2a9854ca-170a-4795-a2a2-aee94ab4e769" />
 
 <img width="773" height="1004" alt="Screenshot 2026-06-22 230457" src="https://github.com/user-attachments/assets/bf04209b-4220-4b4f-9b37-323bf62a4757" />
@@ -117,7 +120,11 @@ Calcular: Presione el botón verde ▶ CALCULAR. El panel inferior expondrá las
 
 
 Visualización y Reportes: Cambie el menú desplegable superior para examinar las gráficas de Momento, Cortante o la Deformada.
+
 <img width="1279" height="731" alt="Screenshot 2026-06-22 230552" src="https://github.com/user-attachments/assets/73ed48cb-dfa1-4e5a-a1c3-21f2d93e4918" />
+
+<img width="1746" height="981" alt="Screenshot 2026-06-22 230607" src="https://github.com/user-attachments/assets/e3874fed-816b-423d-9755-9dde80a0ec70" />
+
 
 Haga clic en Ver Memoria o Exportar Documento para extraer el reporte auditable en formato .txt.
 <img width="1170" height="791" alt="image" src="https://github.com/user-attachments/assets/9ce8c9fa-4430-441d-816c-0551b2150f95" />
