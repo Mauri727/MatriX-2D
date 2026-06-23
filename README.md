@@ -41,20 +41,22 @@ El código fuente está estructurado bajo un paradigma modular enfocado en la se
 
 ## 🚀 Requisitos e Instalación
 
-Para ejecutar MatriX v1.0 desde el código fuente, asegúrese de contar con **Python 3.10 o superior** instalado en su sistema operativo.
+Para ejecutar MatriX v1.0 desde el código fuente, asegúrese de contar con **Python 3.10 o superior** instalado en su computadora (Recuerde marcar la casilla *"Add Python to PATH"* durante la instalación).
 
-**1. Clonar el Repositorio**
+**1. Descargar el Código Fuente**
+* Haga clic en el botón verde **`<> Code`** en la parte superior derecha de esta página y seleccione **`Download ZIP`**.
+* Descomprima el archivo descargado en su computadora (ej. en su Escritorio).
+
+**2. Abrir la Consola de Comandos**
+* Entre a la carpeta que acaba de descomprimir.
+* Haga clic en la barra de direcciones de la carpeta (donde dice la ruta), borre el texto, escriba `cmd` y presione **Enter**. Se abrirá una pantalla negra de terminal.
+
+**3. Instalar Dependencias**
+Instale las librerías científicas y de interfaz necesarias pegando el siguiente comando y presionando Enter:
 ```bash
-git clone https://github.com/Mauri727/MatriX-2D.git
-cd MatriX-2D
-```
-**2. Instalar Dependencias**
-Instale las librerías científicas y de interfaz necesarias ejecutando el gestor de paquetes de Python (pip):
-
-```Bash
 pip install -r requirements.txt
 ```
-**3. Ejecutar la Aplicación**
+**4. Ejecutar la Aplicación**
 Inicie el entorno gráfico del programa ejecutando el archivo principal:
 
 ```Bash
