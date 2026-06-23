@@ -85,14 +85,37 @@ pyinstaller --onefile --windowed main.py
 
 **📖 Manual Breve de Usuario**
 Definir Nodos: Ingrese a la opción 1. Definir Nodos, coloque las coordenadas y configure las restricciones de soporte marcando las casillas (Tx, Ty, Rz). Si el nudo es una articulación completa, active Rótula / Armadura.
+<img width="1746" height="981" alt="image" src="https://github.com/user-attachments/assets/c4f9f409-4e06-4a5a-ad71-0c98e0b95a51" />
+
+<img width="943" height="1048" alt="Screenshot 2026-06-22 230331" src="https://github.com/user-attachments/assets/9326661e-ae71-45ee-b695-f465f887c655" />
+
 
 Trazar Barras: En la opción 2. Trazar Elementos, conecte los nudos indicando el nodo inicial (i) y final (j). Defina las propiedades de sección (E, A, I).
+<img width="943" height="1048" alt="Screenshot 2026-06-22 230331" src="https://github.com/user-attachments/assets/1ed816d5-5d0e-4a69-a808-c9e0ad397aa2" />
+
+<img width="780" height="1067" alt="Screenshot 2026-06-22 230434" src="https://github.com/user-attachments/assets/2908529d-1fce-402d-a5e5-e9e365fb6896" />
 
 Aplicar Cargas: Utilice las pestañas correspondientes para añadir fuerzas nodales puntuales o presiones distribuidas sobre los elementos.
 
-Calcular: Presione el botón verde ▶ CALCULAR. El panel inferior expondrá las reacciones de inmediato.
+<img width="1144" height="777" alt="Screenshot 2026-06-22 230401" src="https://github.com/user-attachments/assets/bbc5b41d-e4bc-4229-8ac7-d24724d016e5" />
+<img width="775" height="985" alt="Screenshot 2026-06-22 230443" src="https://github.com/user-attachments/assets/47f1d419-1ce5-4ee7-a153-df77adacad9b" />
+<img width="775" height="985" alt="Screenshot 2026-06-22 230443" src="https://github.com/user-attachments/assets/48090230-c028-4347-a533-c9d52a19afe5" />
+<img width="773" height="1004" alt="Screenshot 2026-06-22 230457" src="https://github.com/user-attachments/assets/bf04209b-4220-4b4f-9b37-323bf62a4757" />
 
-Visualización y Reportes: Cambie el menú desplegable superior para examinar las gráficas de Momento, Cortante o la Deformada. Haga clic en Ver Memoria o Exportar Documento para extraer el reporte auditable en formato .txt.
+
+
+Calcular: Presione el botón verde ▶ CALCULAR. El panel inferior expondrá las reacciones de inmediato.
+<img width="1174" height="775" alt="image" src="https://github.com/user-attachments/assets/3bd3dcd1-0dfc-4ab8-b2d9-95f3ce03faa2" />
+
+
+
+Visualización y Reportes: Cambie el menú desplegable superior para examinar las gráficas de Momento, Cortante o la Deformada.
+<img width="1279" height="731" alt="Screenshot 2026-06-22 230552" src="https://github.com/user-attachments/assets/73ed48cb-dfa1-4e5a-a1c3-21f2d93e4918" />
+
+Haga clic en Ver Memoria o Exportar Documento para extraer el reporte auditable en formato .txt.
+<img width="1170" height="791" alt="image" src="https://github.com/user-attachments/assets/9ce8c9fa-4430-441d-816c-0551b2150f95" />
+<img width="1174" height="768" alt="image" src="https://github.com/user-attachments/assets/45c8244e-6e16-41a5-8bb8-9f953c48a5ab" />
+
 
 **👥 Créditos y Cátedra**
 
