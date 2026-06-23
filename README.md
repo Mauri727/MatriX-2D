@@ -4,7 +4,7 @@
 
 **Universidad Autónoma Juan Misael Saracho (UAJMS)** | *Facultad de Ciencias y Tecnología - Carrera de Ingeniería Civil* | *Materia: CIV 931 - Análisis de Estructuras III*
 
-*(💡 ESPACIO PARA TU IMAGEN: Arrastra y suelta aquí una captura de pantalla de tu programa funcionando)*
+
 
 ---
 
