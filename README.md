@@ -48,7 +48,8 @@ Para ejecutar MatriX v1.0 desde el código fuente, asegúrese de contar con **Py
 * Descomprima el archivo descargado en su computadora (ej. en su Escritorio).
 
 **2. Abrir la Consola de Comandos**
-* Escriba `cmd` en su buscador de apps y presione **Enter**. Se abrirá una pantalla negra de terminal.
+* Entre a la carpeta que acaba de descomprimir.
+* Haga clic en la barra de direcciones de la carpeta (donde dice la ruta), borre el texto, escriba `cmd` y presione **Enter**. Se abrirá una pantalla negra de terminal.
 
 **3. Instalar Dependencias**
 Instale las librerías científicas y de interfaz necesarias pegando el siguiente comando y presionando Enter:
