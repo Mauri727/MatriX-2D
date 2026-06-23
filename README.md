@@ -85,7 +85,7 @@ pyinstaller --onefile --windowed main.py
 
 **📖 Manual Breve de Usuario**
 Definir Nodos: Ingrese a la opción 1. Definir Nodos, coloque las coordenadas y configure las restricciones de soporte marcando las casillas (Tx, Ty, Rz). Si el nudo es una articulación completa, active Rótula / Armadura.
-<img width="1746" height="981" alt="image" src="https://github.com/user-attachments/assets/c4f9f409-4e06-4a5a-ad71-0c98e0b95a51" />
+<img width="1158" height="764" alt="Screenshot 2026-06-22 230313" src="https://github.com/user-attachments/assets/2185dcbf-68af-4e27-abe4-164f11b3e3cf" />
 
 <img width="943" height="1048" alt="Screenshot 2026-06-22 230331" src="https://github.com/user-attachments/assets/9326661e-ae71-45ee-b695-f465f887c655" />
 
