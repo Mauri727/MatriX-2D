@@ -46,28 +46,43 @@ Para ejecutar MatriX v1.0 desde el código fuente, asegúrese de contar con **Py
 **1. Descargar el Código Fuente**
 * Haga clic en el botón verde **`<> Code`** en la parte superior derecha de esta página y seleccione **`Download ZIP`**.
 * Descomprima el archivo descargado en su computadora (ej. en su Escritorio).
+<img width="1583" height="610" alt="Screenshot 2026-06-22 224916" src="https://github.com/user-attachments/assets/4713dc64-31c6-4fd8-a92c-c38b75fa0911" />
+
+<img width="897" height="736" alt="Screenshot 2026-06-22 225013" src="https://github.com/user-attachments/assets/f6829946-67bd-4d97-89f9-817ef8a481e1" />
 
 **2. Abrir la Consola de Comandos**
 * Entre a la carpeta que acaba de descomprimir.
 * Haga clic en la barra de direcciones de la carpeta (donde dice la ruta), borre el texto, escriba `cmd` y presione **Enter**. Se abrirá una pantalla negra de terminal.
+
+<img width="1813" height="320" alt="Screenshot 2026-06-22 225212" src="https://github.com/user-attachments/assets/d73a7db6-fa4d-4224-9182-c16067ac2594" />
+
+<img width="1428" height="451" alt="Screenshot 2026-06-22 225252" src="https://github.com/user-attachments/assets/d2f8e83b-c9bd-48d3-aeed-abd935c15de7" />
+
+<img width="1678" height="502" alt="Screenshot 2026-06-22 225332" src="https://github.com/user-attachments/assets/412f9d2d-e302-4cd6-ac42-fe37011eb8a4" />
 
 **3. Instalar Dependencias**
 Instale las librerías científicas y de interfaz necesarias pegando el siguiente comando y presionando Enter:
 ```bash
 pip install -r requirements.txt
 ```
+<img width="1359" height="717" alt="Screenshot 2026-06-22 225426" src="https://github.com/user-attachments/assets/a65bf77c-9d5b-4dce-8030-3e00f531dee8" />
+
 **4. Ejecutar la Aplicación**
 Inicie el entorno gráfico del programa ejecutando el archivo principal:
 
 ```Bash
 python main.py
 ```
+<img width="1324" height="722" alt="Screenshot 2026-06-22 225520" src="https://github.com/user-attachments/assets/9fad2e60-2626-4a4f-b37b-43c72cf47698" />
+
 Nota: Si se desea compilar el software en un archivo ejecutable único de Windows (.exe), ejecute en la terminal:
 
 ```Bash
 pip install pyinstaller
 pyinstaller --onefile --windowed main.py
 ```
+<img width="1662" height="563" alt="Screenshot 2026-06-22 225722" src="https://github.com/user-attachments/assets/7bd0d4a2-a00a-47aa-980d-d0a653ebf9d3" />
+
 **📖 Manual Breve de Usuario**
 Definir Nodos: Ingrese a la opción 1. Definir Nodos, coloque las coordenadas y configure las restricciones de soporte marcando las casillas (Tx, Ty, Rz). Si el nudo es una articulación completa, active Rótula / Armadura.
 
