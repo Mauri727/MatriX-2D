@@ -48,22 +48,25 @@ Para ejecutar MatriX v1.0 desde el código fuente, asegúrese de contar con **Py
 git clone https://github.com/Mauri727/MatriX-2D.git
 cd MatriX-2D
 ```
-**2. Instalar Dependencias
+**2. Instalar Dependencias**
 Instale las librerías científicas y de interfaz necesarias ejecutando el gestor de paquetes de Python (pip):
 
-Bash
+```Bash
 pip install -r requirements.txt
-**3. Ejecutar la Aplicación
+```
+**3. Ejecutar la Aplicación**
 Inicie el entorno gráfico del programa ejecutando el archivo principal:
 
-Bash
+```Bash
 python main.py
+```
 Nota: Si se desea compilar el software en un archivo ejecutable único de Windows (.exe), ejecute en la terminal:
 
-Bash
+```Bash
 pip install pyinstaller
 pyinstaller --onefile --windowed main.py
-**📖 Manual Breve de Usuario
+```
+**📖 Manual Breve de Usuario**
 Definir Nodos: Ingrese a la opción 1. Definir Nodos, coloque las coordenadas y configure las restricciones de soporte marcando las casillas (Tx, Ty, Rz). Si el nudo es una articulación completa, active Rótula / Armadura.
 
 Trazar Barras: En la opción 2. Trazar Elementos, conecte los nudos indicando el nodo inicial (i) y final (j). Defina las propiedades de sección (E, A, I).
@@ -74,7 +77,7 @@ Calcular: Presione el botón verde ▶ CALCULAR. El panel inferior expondrá las
 
 Visualización y Reportes: Cambie el menú desplegable superior para examinar las gráficas de Momento, Cortante o la Deformada. Haga clic en Ver Memoria o Exportar Documento para extraer el reporte auditable en formato .txt.
 
-**👥 Créditos y Cátedra
+**👥 Créditos y Cátedra**
 
 Materia: Análisis de Estructuras III (CIV 931) - Grupo 1
 
