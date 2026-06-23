@@ -91,15 +91,22 @@ Definir Nodos: Ingrese a la opción 1. Definir Nodos, coloque las coordenadas y 
 
 
 Trazar Barras: En la opción 2. Trazar Elementos, conecte los nudos indicando el nodo inicial (i) y final (j). Defina las propiedades de sección (E, A, I).
-<img width="943" height="1048" alt="Screenshot 2026-06-22 230331" src="https://github.com/user-attachments/assets/1ed816d5-5d0e-4a69-a808-c9e0ad397aa2" />
+
+
+<img width="1093" height="803" alt="Screenshot 2026-06-22 230350" src="https://github.com/user-attachments/assets/facb2d66-5d1d-4c16-995f-760471d2fca8" />
+
 
 <img width="780" height="1067" alt="Screenshot 2026-06-22 230434" src="https://github.com/user-attachments/assets/2908529d-1fce-402d-a5e5-e9e365fb6896" />
 
 Aplicar Cargas: Utilice las pestañas correspondientes para añadir fuerzas nodales puntuales o presiones distribuidas sobre los elementos.
 
+
+<img width="1144" height="777" alt="Screenshot 2026-06-22 230401" src="https://github.com/user-attachments/assets/8a454831-7329-4426-a70f-2f0bf0963593" />
+
 <img width="1144" height="777" alt="Screenshot 2026-06-22 230401" src="https://github.com/user-attachments/assets/bbc5b41d-e4bc-4229-8ac7-d24724d016e5" />
 <img width="775" height="985" alt="Screenshot 2026-06-22 230443" src="https://github.com/user-attachments/assets/47f1d419-1ce5-4ee7-a153-df77adacad9b" />
-<img width="775" height="985" alt="Screenshot 2026-06-22 230443" src="https://github.com/user-attachments/assets/48090230-c028-4347-a533-c9d52a19afe5" />
+<img width="782" height="1002" alt="Screenshot 2026-06-22 230451" src="https://github.com/user-attachments/assets/2a9854ca-170a-4795-a2a2-aee94ab4e769" />
+
 <img width="773" height="1004" alt="Screenshot 2026-06-22 230457" src="https://github.com/user-attachments/assets/bf04209b-4220-4b4f-9b37-323bf62a4757" />
 
 
