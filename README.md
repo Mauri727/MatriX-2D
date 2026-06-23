@@ -49,7 +49,7 @@ Para ejecutar MatriX v1.0 desde el código fuente, asegúrese de contar con **Py
 
 1. Clonar el Repositorio
 ```bash   
-git clone [https://github.com/TU-USUARIO/MatriX-2D.git](https://github.com/TU-USUARIO/MatriX-2D.git)
+git clone [https://github.com/Mauri727/MatriX-2D.git](https://github.com/Mauri727/MatriX-2D.git)
 cd MatriX-2D
 
 2. Instalar Dependencias
