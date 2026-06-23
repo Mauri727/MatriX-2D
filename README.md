@@ -104,8 +104,6 @@ Aplicar Cargas: Utilice las pestañas correspondientes para añadir fuerzas noda
 
 <img width="1144" height="777" alt="Screenshot 2026-06-22 230401" src="https://github.com/user-attachments/assets/8a454831-7329-4426-a70f-2f0bf0963593" />
 
-<img width="782" height="1002" alt="Screenshot 2026-06-22 230451" src="https://github.com/user-attachments/assets/ca2347e7-fd7e-4f05-9554-b4527aa30e57" />
-
 
 <img width="775" height="985" alt="Screenshot 2026-06-22 230443" src="https://github.com/user-attachments/assets/47f1d419-1ce5-4ee7-a153-df77adacad9b" />
 
