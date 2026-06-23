@@ -127,6 +127,7 @@ Visualización y Reportes: Cambie el menú desplegable superior para examinar la
 
 Haga clic en Ver Memoria o Exportar Documento para extraer el reporte auditable en formato .txt.
 <img width="1170" height="791" alt="image" src="https://github.com/user-attachments/assets/9ce8c9fa-4430-441d-816c-0551b2150f95" />
+<img width="1384" height="932" alt="image" src="https://github.com/user-attachments/assets/f8c634f4-8abb-4210-aa42-581fb5b624e2" />
 <img width="1174" height="768" alt="image" src="https://github.com/user-attachments/assets/45c8244e-6e16-41a5-8bb8-9f953c48a5ab" />
 
 
